@@ -1,3 +1,25 @@
+# Lab4PIP_Front-end
+This is the fourth laboratory work on Web-Programming at university (Front-end)
+
+### In the actions files you need to write:
+##### In userActions file: 
+ + logout function
+   +  *axios.get("your_back_end_address/logout", ... )*
+ + login function
+   +  *axios.get("your_back_end_address/login", ... )*
+ + registration function
+   +  *axios.get("your_back_end_address/register", ... )*
+##### In pageActions file: 
+ + sendPoint function
+   +  *axios.get("your_back_end_address/table", ... )*
+ + deletePoint function
+   +  *axios.get("your_back_end_address/delete", ... )*
+ + getTable function
+   +  *axios.get("your_back_end_address/result", ... )*
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
